@@ -1,5 +1,4 @@
 
-
   let brand, items,category = []; // GLOBAL ITEM NAME
   const MySrp = 0.60;
   let rPRICE = 0;
